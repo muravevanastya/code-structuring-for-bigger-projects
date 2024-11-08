@@ -1,5 +1,7 @@
 # Three.js Journey
 
+https://code-structuring-for-bigger-projects-iota.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
